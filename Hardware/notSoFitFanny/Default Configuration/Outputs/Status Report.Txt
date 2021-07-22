@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:59:01 AM On 6/11/2021
+
+Output: Pick Place
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [notSoFitFanny.CSPcbDoc]
+   Generated File[Pick Place for notSoFitFanny.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:59:01 AM On 6/11/2021
